@@ -1,4 +1,4 @@
-# 🚀 ParadoxSimulator: Deterministic FrameSync Framework for SLG
+# 🚀 Deterministic FrameSync Framework for SLG
 
 一个专为大地图 SLG / RTS 游戏设计的**纯 C# 确定性定点数帧同步联机框架**。本项目以 Godot 4.x (.NET 8) 作为渲染前端进行演示，其核心状态机与网络层完全解耦，可独立抽取用于任何 C# 游戏引擎中。
 
