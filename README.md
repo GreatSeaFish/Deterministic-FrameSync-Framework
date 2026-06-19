@@ -16,7 +16,7 @@
 Bash
 cd Server
 dotnet run
-# 服务端启动成功后将提示：[Server] 服务端已启动，最大支持 8 名玩家... 并在 5721 端口监听
+服务端启动成功后将提示：[Server] 服务端已启动，最大支持 8 名玩家... 并在 5721 端口监听
 3. 运行 Godot 客户端（多端测试）
 用 Godot 打开项目根目录的 project.godot。
 
