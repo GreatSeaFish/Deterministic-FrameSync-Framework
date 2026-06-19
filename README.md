@@ -67,7 +67,7 @@ ParadoxSimulator/
 ├── Server/             # 🖥️ .NET 8 控制台独立服务端（纯C#驱动）
 ├── Render/             # 🎨 Godot 渲染/UI前端视角（大厅页面、像素映射）
 └── CoreHost.cs         # 以 godot 为渲染器示例的程序入口，挂载AutoLoad
-
+```
 ---
 
 ## 📜 第三方开源组件致谢 (Third-Party Notices)
