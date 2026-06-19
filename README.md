@@ -68,3 +68,18 @@ ParadoxSimulator/
 ├── Render/             # 🎨 Godot 渲染/UI前端视角（大厅页面、像素映射）
 └── CoreHost.cs         # 以 godot 为渲染器示例的程序入口，挂载AutoLoad
 
+---
+
+## 📜 第三方开源组件致谢 (Third-Party Notices)
+
+本项目作为一个整体基于 **Unlicense**（公共领域）释放，允许您无条件自由使用和修改。但本项目依赖了以下优秀的第三方开源库，其版权归属于原作者，并分别受其各自的开源协议保护：
+
+1. **LiteNetLib**  
+   * 协议：MIT License  
+   * 版权所有：(c) Ruslan (RevenantX) Belkov  
+   * 作用：提供底层高性能 UDP 网络可靠传输支撑。
+
+2. **FixedMath.NET**  
+   * 协议：MIT License  
+   * 版权所有：(c) Valeriy (asik) Sutyamov  
+   * 作用：提供纯 C# 确定性定点数数学库，防浮点数漂移。
